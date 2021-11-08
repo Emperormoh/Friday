@@ -1,0 +1,13 @@
+/Users/wemabank/Projects/friday/friday/obj/Debug/netcoreapp3.1/friday.csproj.AssemblyReference.cache
+/Users/wemabank/Projects/friday/friday/obj/Debug/netcoreapp3.1/friday.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wemabank/Projects/friday/friday/obj/Debug/netcoreapp3.1/friday.AssemblyInfoInputs.cache
+/Users/wemabank/Projects/friday/friday/obj/Debug/netcoreapp3.1/friday.AssemblyInfo.cs
+/Users/wemabank/Projects/friday/friday/obj/Debug/netcoreapp3.1/friday.csproj.CoreCompileInputs.cache
+/Users/wemabank/Projects/friday/friday/bin/Debug/netcoreapp3.1/friday.deps.json
+/Users/wemabank/Projects/friday/friday/bin/Debug/netcoreapp3.1/friday.runtimeconfig.json
+/Users/wemabank/Projects/friday/friday/bin/Debug/netcoreapp3.1/friday.runtimeconfig.dev.json
+/Users/wemabank/Projects/friday/friday/bin/Debug/netcoreapp3.1/friday.dll
+/Users/wemabank/Projects/friday/friday/bin/Debug/netcoreapp3.1/friday.pdb
+/Users/wemabank/Projects/friday/friday/obj/Debug/netcoreapp3.1/friday.dll
+/Users/wemabank/Projects/friday/friday/obj/Debug/netcoreapp3.1/friday.pdb
+/Users/wemabank/Projects/friday/friday/obj/Debug/netcoreapp3.1/friday.genruntimeconfig.cache

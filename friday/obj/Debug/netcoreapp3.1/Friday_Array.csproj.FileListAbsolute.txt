@@ -1,0 +1,13 @@
+/Users/wemabank/Projects/friday/friday/bin/Debug/netcoreapp3.1/Friday_Array.deps.json
+/Users/wemabank/Projects/friday/friday/bin/Debug/netcoreapp3.1/Friday_Array.runtimeconfig.json
+/Users/wemabank/Projects/friday/friday/bin/Debug/netcoreapp3.1/Friday_Array.runtimeconfig.dev.json
+/Users/wemabank/Projects/friday/friday/bin/Debug/netcoreapp3.1/Friday_Array.dll
+/Users/wemabank/Projects/friday/friday/bin/Debug/netcoreapp3.1/Friday_Array.pdb
+/Users/wemabank/Projects/friday/friday/obj/Debug/netcoreapp3.1/Friday_Array.csproj.AssemblyReference.cache
+/Users/wemabank/Projects/friday/friday/obj/Debug/netcoreapp3.1/Friday_Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wemabank/Projects/friday/friday/obj/Debug/netcoreapp3.1/Friday_Array.AssemblyInfoInputs.cache
+/Users/wemabank/Projects/friday/friday/obj/Debug/netcoreapp3.1/Friday_Array.AssemblyInfo.cs
+/Users/wemabank/Projects/friday/friday/obj/Debug/netcoreapp3.1/Friday_Array.csproj.CoreCompileInputs.cache
+/Users/wemabank/Projects/friday/friday/obj/Debug/netcoreapp3.1/Friday_Array.dll
+/Users/wemabank/Projects/friday/friday/obj/Debug/netcoreapp3.1/Friday_Array.pdb
+/Users/wemabank/Projects/friday/friday/obj/Debug/netcoreapp3.1/Friday_Array.genruntimeconfig.cache
